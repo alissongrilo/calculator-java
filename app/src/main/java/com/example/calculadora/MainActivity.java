@@ -6,9 +6,14 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
+import android.widget.TextView;
+
+import java.util.Stack;
+
 
 public class MainActivity extends AppCompatActivity {
 
+    private Stack<Integer> stack1 = new Stack<Integer>();
     Button buttonFibonacci, buttonPrimo, buttonFatorial;
 
     @Override
@@ -43,5 +48,10 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(fatorialTela);
             }
         });
+    }
+
+    public void Atualiza(){
+        TextView texto = (TextView) findViewById(R.id.textView3);
+        texto.setText(stack1.toString());
     }
 }

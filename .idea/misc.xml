@@ -3,10 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/cefet/hebert/MyApplication/Calculadora/app/src/main/res/layout/activity_fatorial.xml" value="0.17844202898550723" />
-        <entry key="..\:/cefet/hebert/MyApplication/Calculadora/app/src/main/res/layout/activity_fibonacci.xml" value="0.33" />
+        <entry key="..\:/cefet/hebert/MyApplication/Calculadora/app/src/main/res/layout/activity_fatorial.xml" value="0.5" />
+        <entry key="..\:/cefet/hebert/MyApplication/Calculadora/app/src/main/res/layout/activity_fibonacci.xml" value="0.1" />
         <entry key="..\:/cefet/hebert/MyApplication/Calculadora/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/cefet/hebert/MyApplication/Calculadora/app/src/main/res/layout/activity_primo.xml" value="0.20416666666666666" />
+        <entry key="..\:/cefet/hebert/MyApplication/Calculadora/app/src/main/res/layout/activity_primo.xml" value="0.25" />
       </map>
     </option>
   </component>
