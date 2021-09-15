@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Calculadora">
         <activity
+            android:name=".BigintActivity"
+            android:exported="true" />
+        <activity
             android:name=".FibonacciActivity"
             android:exported="true" />
         <activity
